@@ -13,7 +13,8 @@ public class Method {
         if (getName("john") != "Nathan") {
             System.out.println("You Don't Belong Here");
         } else {
-            System.out.println("Welcome");
+            System.out.println("Welcome ");
+            System.out.println("Thank You ");
         }
     }
 }
