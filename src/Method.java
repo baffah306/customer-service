@@ -15,6 +15,8 @@ public class Method {
         } else {
             System.out.println("Welcome ");
             System.out.println("Thank You ");
+            System.out.println("crypto");
+
         }
     }
 }
